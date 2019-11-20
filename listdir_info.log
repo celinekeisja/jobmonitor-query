@@ -1,0 +1,349 @@
+2019-11-20 14:45:57,092 - __main__ - INFO - Reading file..
+2019-11-20 14:50:53,984 - __main__ - INFO - Reading file..
+2019-11-20 14:52:01,429 - __main__ - INFO - Reading file..
+2019-11-20 14:52:35,107 - __main__ - INFO - Reading file..
+2019-11-20 15:27:11,396 - __main__ - INFO - Reading file..
+2019-11-20 15:27:11,397 - __main__ - INFO - Reading file..
+2019-11-20 15:36:46,875 - __main__ - INFO - Reading file..
+2019-11-20 15:36:46,885 - __main__ - INFO - Reading file..
+2019-11-20 15:37:10,598 - __main__ - INFO - Reading file..
+2019-11-20 15:37:10,599 - __main__ - INFO - Reading file..
+2019-11-20 15:44:58,429 - __main__ - INFO - Reading file..
+2019-11-20 15:45:20,967 - __main__ - INFO - Reading file..
+2019-11-20 15:45:50,504 - __main__ - INFO - Reading file..
+2019-11-20 15:45:51,525 - __main__ - INFO - Read 166 from http://localhost:5000/modulelogs/334ac419-bc85-4c1c-9b02-354d10348f31
+2019-11-20 15:45:51,532 - __main__ - INFO - Read 168 from http://localhost:5000/modulelogs/1dd7abf1-e5cc-40d1-8e87-e8462d3d1546
+2019-11-20 15:45:51,538 - __main__ - INFO - Read 165 from http://localhost:5000/modulelogs/19c95ea7-c23b-4e0c-95bb-77e017f0af26
+2019-11-20 15:45:52,551 - __main__ - INFO - Read 166 from http://localhost:5000/modulelogs/789d3e7e-412c-439a-ae54-ca6d6f9561a1
+2019-11-20 15:45:52,571 - __main__ - INFO - Read 163 from http://localhost:5000/modulelogs/f41e67b3-9428-4da8-96fe-efee397c4550
+2019-11-20 15:46:53,298 - __main__ - INFO - Reading file..
+2019-11-20 15:46:54,325 - __main__ - INFO - b'{\n  "app_name": "Name1",\n  "date_created": "2019-11-11T05:03:19.747514",\n  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",\n  "pk_id": 9,\n  "state": "PROCESSING"\n}\n'
+2019-11-20 15:46:54,335 - __main__ - INFO - b'{\n  "app_name": "Telegram",\n  "date_created": "2019-11-11T05:02:35.979951",\n  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",\n  "pk_id": 7,\n  "state": "PROCESSING"\n}\n'
+2019-11-20 15:46:54,344 - __main__ - INFO - b'{\n  "app_name": "Name1",\n  "date_created": "2019-11-11T05:39:15.998671",\n  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",\n  "pk_id": 12,\n  "state": "PROCESSING"\n}\n'
+2019-11-20 15:46:55,351 - __main__ - INFO - b'{\n  "app_name": "Name1",\n  "date_created": "2019-11-11T05:04:33.128059",\n  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",\n  "pk_id": 11,\n  "state": "PROCESSING"\n}\n'
+2019-11-20 15:46:55,364 - __main__ - INFO - b'{\n  "app_name": "TestName",\n  "date_created": "2019-11-11T05:03:19.745520",\n  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",\n  "pk_id": 8,\n  "state": "ERROR"\n}\n'
+2019-11-20 15:47:11,080 - __main__ - INFO - Reading file..
+2019-11-20 15:47:12,100 - __main__ - INFO - b'{\n  "app_name": "Name1",\n  "date_created": "2019-11-11T05:03:19.747514",\n  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",\n  "pk_id": 9,\n  "state": "PROCESSING"\n}'
+2019-11-20 15:47:12,106 - __main__ - INFO - b'{\n  "app_name": "Telegram",\n  "date_created": "2019-11-11T05:02:35.979951",\n  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",\n  "pk_id": 7,\n  "state": "PROCESSING"\n}'
+2019-11-20 15:47:12,112 - __main__ - INFO - b'{\n  "app_name": "Name1",\n  "date_created": "2019-11-11T05:39:15.998671",\n  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",\n  "pk_id": 12,\n  "state": "PROCESSING"\n}'
+2019-11-20 15:47:13,126 - __main__ - INFO - b'{\n  "app_name": "TestName",\n  "date_created": "2019-11-11T05:03:19.745520",\n  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",\n  "pk_id": 8,\n  "state": "ERROR"\n}'
+2019-11-20 15:47:13,143 - __main__ - INFO - b'{\n  "app_name": "Name1",\n  "date_created": "2019-11-11T05:04:33.128059",\n  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",\n  "pk_id": 11,\n  "state": "PROCESSING"\n}'
+2019-11-20 15:50:01,066 - __main__ - INFO - Reading file..
+2019-11-20 15:50:02,091 - __main__ - INFO - [b'{', b'  "app_name": "Telegram",', b'  "date_created": "2019-11-11T05:02:35.979951",', b'  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",', b'  "pk_id": 7,', b'  "state": "PROCESSING"', b'}']
+2019-11-20 15:50:02,103 - __main__ - INFO - [b'{', b'  "app_name": "Name1",', b'  "date_created": "2019-11-11T05:39:15.998671",', b'  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",', b'  "pk_id": 12,', b'  "state": "PROCESSING"', b'}']
+2019-11-20 15:50:02,113 - __main__ - INFO - [b'{', b'  "app_name": "Name1",', b'  "date_created": "2019-11-11T05:03:19.747514",', b'  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",', b'  "pk_id": 9,', b'  "state": "PROCESSING"', b'}']
+2019-11-20 15:50:03,106 - __main__ - INFO - [b'{', b'  "app_name": "Name1",', b'  "date_created": "2019-11-11T05:04:33.128059",', b'  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",', b'  "pk_id": 11,', b'  "state": "PROCESSING"', b'}']
+2019-11-20 15:50:03,117 - __main__ - INFO - [b'{', b'  "app_name": "TestName",', b'  "date_created": "2019-11-11T05:03:19.745520",', b'  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",', b'  "pk_id": 8,', b'  "state": "ERROR"', b'}']
+2019-11-20 15:50:57,181 - __main__ - INFO - Reading file..
+2019-11-20 15:51:22,621 - __main__ - INFO - Reading file..
+2019-11-20 15:51:23,639 - __main__ - INFO - ['{', '  "app_name": "Name1",', '  "date_created": "2019-11-11T05:39:15.998671",', '  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",', '  "pk_id": 12,', '  "state": "PROCESSING"', '}']
+2019-11-20 15:51:23,645 - __main__ - INFO - ['{', '  "app_name": "Telegram",', '  "date_created": "2019-11-11T05:02:35.979951",', '  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",', '  "pk_id": 7,', '  "state": "PROCESSING"', '}']
+2019-11-20 15:51:23,650 - __main__ - INFO - ['{', '  "app_name": "Name1",', '  "date_created": "2019-11-11T05:03:19.747514",', '  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",', '  "pk_id": 9,', '  "state": "PROCESSING"', '}']
+2019-11-20 15:51:24,649 - __main__ - INFO - ['{', '  "app_name": "Name1",', '  "date_created": "2019-11-11T05:04:33.128059",', '  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",', '  "pk_id": 11,', '  "state": "PROCESSING"', '}']
+2019-11-20 15:51:24,657 - __main__ - INFO - ['{', '  "app_name": "TestName",', '  "date_created": "2019-11-11T05:03:19.745520",', '  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",', '  "pk_id": 8,', '  "state": "ERROR"', '}']
+2019-11-20 15:51:47,928 - __main__ - INFO - Reading file..
+2019-11-20 15:51:48,949 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 15:51:48,955 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 15:51:48,961 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 15:51:49,962 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 15:51:49,970 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 15:53:54,234 - __main__ - INFO - Reading file..
+2019-11-20 15:53:55,281 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 15:53:55,293 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 15:53:55,302 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 15:53:56,297 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 15:53:56,309 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 16:32:20,950 - __main__ - ERROR - unable to open database file
+2019-11-20 16:32:20,952 - __main__ - ERROR - Unable to connect to DB.
+2019-11-20 16:32:20,953 - __main__ - INFO - Reading file..
+2019-11-20 16:32:21,996 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 16:32:22,002 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 16:32:22,007 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 16:32:23,006 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 16:32:23,013 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 16:34:58,217 - __main__ - INFO - Reading file..
+2019-11-20 16:34:59,243 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 16:34:59,251 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 16:34:59,260 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 16:35:00,256 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 16:35:00,268 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 16:38:28,593 - __main__ - INFO - Reading file..
+2019-11-20 16:38:29,621 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 16:38:29,630 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 16:38:29,636 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 16:38:30,642 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 16:38:30,657 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 16:48:35,549 - __main__ - INFO - Reading file..
+2019-11-20 16:48:36,586 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 16:48:36,637 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 16:48:36,643 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 16:48:37,602 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 16:48:37,648 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 17:10:14,487 - __main__ - INFO - Reading file..
+2019-11-20 17:10:15,509 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 17:10:15,518 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 17:10:15,527 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 17:10:16,529 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 17:10:16,543 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 17:13:00,760 - __main__ - INFO - Reading file..
+2019-11-20 17:13:01,801 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:39:15.998671",
+  "job_id": "334ac419-bc85-4c1c-9b02-354d10348f31",
+  "pk_id": 12,
+  "state": "PROCESSING"
+}
+2019-11-20 17:13:01,816 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:03:19.747514",
+  "job_id": "19c95ea7-c23b-4e0c-95bb-77e017f0af26",
+  "pk_id": 9,
+  "state": "PROCESSING"
+}
+2019-11-20 17:13:01,826 - __main__ - INFO - {
+  "app_name": "Telegram",
+  "date_created": "2019-11-11T05:02:35.979951",
+  "job_id": "1dd7abf1-e5cc-40d1-8e87-e8462d3d1546",
+  "pk_id": 7,
+  "state": "PROCESSING"
+}
+2019-11-20 17:13:02,824 - __main__ - INFO - {
+  "app_name": "Name1",
+  "date_created": "2019-11-11T05:04:33.128059",
+  "job_id": "789d3e7e-412c-439a-ae54-ca6d6f9561a1",
+  "pk_id": 11,
+  "state": "PROCESSING"
+}
+2019-11-20 17:13:02,838 - __main__ - INFO - {
+  "app_name": "TestName",
+  "date_created": "2019-11-11T05:03:19.745520",
+  "job_id": "f41e67b3-9428-4da8-96fe-efee397c4550",
+  "pk_id": 8,
+  "state": "ERROR"
+}
+2019-11-20 17:13:51,409 - __main__ - INFO - Reading file..
+2019-11-20 17:14:30,850 - __main__ - INFO - Reading file..
+2019-11-20 17:15:01,625 - __main__ - INFO - Reading file..
+2019-11-20 17:16:35,442 - __main__ - INFO - Reading file..
+2019-11-20 17:16:52,805 - __main__ - INFO - Reading file..
+2019-11-20 17:18:08,511 - __main__ - INFO - Reading file..
+2019-11-20 17:18:18,188 - __main__ - INFO - Reading file..
+2019-11-20 17:22:47,204 - __main__ - INFO - Reading file..
+2019-11-20 17:24:10,632 - __main__ - INFO - Reading file..
+2019-11-20 17:24:41,625 - __main__ - INFO - Reading file..
+2019-11-20 17:25:11,660 - __main__ - INFO - Reading file..
+2019-11-20 17:29:05,521 - __main__ - INFO - Reading file..
+2019-11-20 17:31:56,409 - __main__ - INFO - Reading file..
+2019-11-20 17:36:48,264 - __main__ - INFO - Reading file..
+2019-11-20 17:37:33,270 - __main__ - INFO - Reading file..
+2019-11-20 17:38:32,106 - __main__ - INFO - Reading file..
